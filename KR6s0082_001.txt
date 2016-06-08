@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 00:08:45.072742
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:36
 #+TITLE: 景教三威蒙度讚
 #+PROPERTY: CBETA_ID T54n2143
 #+PROPERTY: ID KR6s0082
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 54, No. 2143
 #+PROPERTY: VOL 54
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6s0082_T_001-1288b> 
 #+PROPERTY: JUAN 1
 ¶
-No.2143¶
-
- 景教三威蒙度讚¶
+No. 2143¶
+景教三威蒙度讚¶
 ¶
 
 #+BEGIN_VERSE
@@ -59,16 +58,12 @@ No.2143¶
 　大聖普尊彌施訶
 　我歎慈父海藏慈¶
 　大聖謙及淨風性
-　清凝法耳不思議
+　清凝法耳不思議」
 #+END_VERSE
-」¶
+¶
 大秦景教三威蒙度讚一卷¶
 
-尊經
-:PROPERTIES:
-:head: 尊經
-:END:
-¶
+* 尊經¶
 
 敬禮妙身皇父阿羅訶　應身皇子彌施訶
 <pb:KR6s0082_T_001-1288c>¶
